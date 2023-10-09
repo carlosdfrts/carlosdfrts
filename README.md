@@ -23,5 +23,3 @@ Welcome, Here are some of my projects, personal projects and study projects rela
 ## 📈 Stats
 ![Carlos Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdfrts&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdfrts&layout=compact&langs_count=16&theme=transparent)
-
-![Snake animation](https://github.com/carlosdfrts)
