@@ -21,5 +21,8 @@ Welcome, Here are some of my projects, personal projects and study projects rela
 </div>
 
 ## 📈 Stats
-![Carlos Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdfrts&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdfrts&layout=compact&langs_count=16&theme=transparent)
+<div>
+  <a href = "https://github.com/carlosdfrts">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=carlosdfrts&theme=dark&show_icons=true&icon_color=4169e1&bg_color=141414&text_color=ffff&title_color=4169e1"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdfrts&layout=donut&theme=dark&text_color=ffff&bg_color=141414&title_color=4169e1"/>
+</div>
