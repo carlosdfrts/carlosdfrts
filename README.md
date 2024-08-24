@@ -10,6 +10,7 @@ Welcome, Here are some of my projects, personal projects and study projects rela
 
 ## 🛠 Skills
 <div>
+  <img align="center" src="https://img.icons8.com/?size=100&id=bORMlYYhamPG&format=png&color=000000">
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
