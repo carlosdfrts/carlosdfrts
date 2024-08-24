@@ -1,6 +1,3 @@
-## 👋 Hello, my name is Carlos!
-Welcome, Here are some of my projects, personal projects and study projects related to my Computer Science course and my journey as a developer. I am looking for job opportunities in the development field and this repository serves as a portfolio of my work and skills.
-
 ## 🔗 Links
 <div>
   <a href = "mailto:carlosfrts6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
