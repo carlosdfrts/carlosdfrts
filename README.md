@@ -18,10 +18,3 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/MySQL-14354F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-## 📈 Stats
-<div>
-  <a href = "https://github.com/carlosdfrts">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=carlosdfrts&theme=dark&show_icons=true&icon_color=4169e1&bg_color=141414&text_color=ffff&title_color=4169e1"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdfrts&layout=donut&theme=dark&text_color=ffff&bg_color=141414&title_color=4169e1"/>
-</div>
