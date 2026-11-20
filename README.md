@@ -1,13 +1,16 @@
 ## 🔗 Links
 <div>
-  <a href = "mailto:carlosfrts6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href = "https://www.linkedin.com/in/carlos-daniel-freitas/"><img align="center" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)"></a>
-  <a href = "https://www.instagram.com/carlosfrts_/"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+  <a href="mailto:carlosfrts6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/carlos-daniel-freitas/"><img align="center" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
+  <a href="https://www.instagram.com/carlosfrts_/"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
 </div>
 
 ## 🛠 Skills
 <div>
-  #[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" />
+  </a>
+  <br><br>
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
