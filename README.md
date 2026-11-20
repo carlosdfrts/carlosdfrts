@@ -8,17 +8,6 @@
 ## 🛠 Skills
 <div>
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" />
+    <img align="center" src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,mysql,postgres" alt="My Skills" />
   </a>
-  <br><br>
-  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" src="https://img.shields.io/badge/MySQL-14354F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
